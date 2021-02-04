@@ -1,0 +1,26 @@
+.bg-dark{
+background-color:#000000!important
+}
+
+.navbar a {
+font-family: 'Barlow', sans-serif;
+}
+
+body {
+ font-family: 'Work Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+ font-family: 'Crimson Text', serif;
+}
+
+
+.jumbotron {
+  
+  color: white;
+  background-image: url("mount2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
