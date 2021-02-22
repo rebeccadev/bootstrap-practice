@@ -37,3 +37,19 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     min-height: 280px; /* Prevent carousel from being distorted if for some reason image doesn't load */
 }
+
+/* Footer */
+.footer-text {
+    color: white;
+}
+
+
+/* Font Awesome Icons */
+
+.fa {
+  color: red;
+}
+
+.fa:hover {
+  color: purple;
+}
