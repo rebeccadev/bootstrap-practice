@@ -10,6 +10,9 @@ body {
  font-family: 'Work Sans', sans-serif;
 }
 
+.jumbotron-text {
+    font-size: 0.95rem;
+}
 h1, h2, h3, h4, h5, h6 {
  font-family: 'Crimson Text', serif;
 }
@@ -27,6 +30,10 @@ h1, h2, h3, h4, h5, h6 {
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
+}
+
+.mountguide{
+    background: #f9f5f4;
 }
 
 .carousel{
@@ -47,9 +54,9 @@ h1, h2, h3, h4, h5, h6 {
 /* Font Awesome Icons */
 
 .fa {
-  color: red;
+  color: rgba(238, 236, 236, 0.562);
 }
 
 .fa:hover {
-  color: purple;
+  color: rgb(187, 177, 177);
 }
